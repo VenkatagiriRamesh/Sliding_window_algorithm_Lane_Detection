@@ -32,6 +32,6 @@
 5. pickle
 
 ## Code Execution 
-`<cd Sliding-window-algorithm---Lane-Detection>` 
+`cd Sliding-window-algorithm---Lane-Detection` 
 
-`<python lane_detection.py>` 
+`python lane_detection.py` 
