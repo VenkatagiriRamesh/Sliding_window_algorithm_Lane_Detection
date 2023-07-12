@@ -1,4 +1,4 @@
-# Lane-Detection---Curve-Estimation-Method
+# Lane Detection-Sliding Window Algorithm Method
 
 ## The following the steps of image processing and analysis involved in 'detection.py',
 1. Compute the camera calibration matrix and distortion coefficients using a set of chessboard images taken from Picamera.
